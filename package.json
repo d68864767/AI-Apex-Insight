@@ -1,0 +1,28 @@
+{
+  "name": "ai-apex-insight",
+  "version": "1.0.0",
+  "description": "Comprehensive analytics and business intelligence platform with AI-driven features",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"No test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/ai-apex-insight.git"
+  },
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "react": "^17.0.2",
+    "d3": "^7.0.0",
+    "chart.js": "^3.5.1",
+    "tensorflow.js": "^3.8.0",
+    "websocket": "^1.0.34",
+    "[Any additional libraries or tools]": "[version]"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.13"
+  }
+}
